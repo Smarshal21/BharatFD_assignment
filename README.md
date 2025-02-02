@@ -22,7 +22,7 @@ BharatFD is a full-stack web application that enables users to create, store, an
 ## **Setup Instructions**
 1. **Clone repository:**  
    ```sh
-   git clone https://github.com/<username>/<reponame>.git
+   git clone https://github.com/Smarshal21/BharatFD_assignment
    ```
 2. **Install dependencies:**  
    ```sh
